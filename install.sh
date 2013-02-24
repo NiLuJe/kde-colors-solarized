@@ -1,18 +1,17 @@
 #!/bin/sh
-# Check path existence
-if [ -d ~/.kde4 ]; then
-	kde_path=~/.kde4
-else
-	kde_path=~/.kde
-fi
+
+kde_path="$(kde4-config --localprefix)"
 
 # KDE Color Palette
-mkdir -p ${kde_path}/share/config/colors/
-cp ./Solarized_Colors ${kde_path}/share/config/colors/Solarized\ Colors
+install -Dm644 Solarized_Colors "${kde_path}/share/config/colors"
 
 # Kate Color Schema and syntax highligting
-mkdir -p ${kde_path}/share/config/
-cat ./"Solarized Dark.kateschema" >>   ${kde_path}/share/config/kateschemarc
-cat ./"Solarized Dark.katesyntax" >>   ${kde_path}/share/config/katesyntaxhighlightingrc
-cat ./"Solarized Light.kateschema" >>  ${kde_path}/share/config/kateschemarc
-cat ./"Solarized Light.katesyntax" >>  ${kde_path}/share/config/katesyntaxhighlightingrc
+for file in *Dark*; do
+	./solarized_convert.sh "$file" > "${file/Dark/Light}"
+done
+
+install -d "${kde_path}/share/config"
+cat *.kateschema >> "${kde_path}/share/config/kateschemarc"
+cat *.katesyntax >> "${kde_path}/share/config/katesyntaxhighlightingrc"
+
+rm *Light*
