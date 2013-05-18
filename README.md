@@ -83,7 +83,7 @@ On your system paths may be under ~/.kde/ instead of ~/.kde4/.
 Kdevelop Notes
 ----------
 
-If you're using the Dark theme, you might want to tinker with the "Semantic Code Highlighting" colorization intensity in Kdevelop's settings. See the kdev_hl_intensity.png snapshot in the repo for an example of what I'm currently using (kita Dark + Solarized Dark).
+If you're using the Dark theme, you might want to tinker with the "Semantic Code Highlighting" colorization intensity in Kdevelop's settings. See the kdev_hl_intensity.png snapshot in the repo for an example of what I'm currently using (Krita Dark + Solarized Dark).
 
 The Values
 ----------
