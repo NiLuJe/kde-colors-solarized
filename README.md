@@ -6,25 +6,25 @@ Solarized - KDE Color Schemes
 About
 -----
 
-Solarized themes for KDE Color Palette, Konsole and Kate. 
+Solarized themes for KDE Color Palette, Konsole and Kate.
 
 Solarized Konsole Theme
 -----------------------
 
 * Solarized Dark.colorscheme
-* Solarized Light.colorscheme 
+* Solarized Light.colorscheme
 
-These are Solarized terminal theme files for KDE 4's Konsole terminal client, by 
+These are Solarized terminal theme files for KDE 4's Konsole terminal client, by
 https://github.com/phiggins
 
 This was adapted
-from the [Xresources file](https://github.com/altercation/solarized/blob/9f1ba40686ccbf54f10851d4f1a14830fa543ae9/xresources-colors-solarized/Xresources) from March 31, 2011 and so contains the same color 
+from the [Xresources file](https://github.com/altercation/solarized/blob/9f1ba40686ccbf54f10851d4f1a14830fa543ae9/xresources-colors-solarized/Xresources) from March 31, 2011 and so contains the same color
 designations present there.
 
 Solarized Kate Theme
 --------------------
 
-* Solarized Dark.kateschema 
+* Solarized Dark.kateschema
 * Solarized Light.kateschema
 * Solarized Dark.katesyntax
 * Solarized Light.katesyntax
@@ -49,7 +49,7 @@ Installation
 
 **Automatic installation**
 
-1. Run the provided `install.sh` script. It will install the Color palette, Konsole and Kate color scheme 
+1. Run the provided `install.sh` script. It will install the Color palette, Konsole and Kate color scheme
 2. Open Konsole and select Settings -> Configure Profiles -> Edit Profile -> Appearance, then select either of the Solarized themes.
 3. Click OK, then OK again, and the Solarized settings should have taken effect.
 4. Open Kate and select Settings -> Configure Kate -> Editor Component -> Fonts & Colors
@@ -61,7 +61,7 @@ Installation
 
 On your system paths may be under ~/.kde/ instead of ~/.kde4/.
 
-1. Copy the Konsole colorscheme (\*.colorscheme) files to ~/.kde4/share/apps/konsole/. 
+1. Copy the Konsole colorscheme (\*.colorscheme) files to ~/.kde4/share/apps/konsole/.
 2. Open Konsole and select Settings -> Configure Profiles -> Edit Profile -> Appearance, then select either of the Solarized themes.
 3. Click OK, then OK again, and the Solarized settings should have taken effect.
 4. Copy the KDE Color Chooser Palette (`Solarized_Colors) to ~/.kde4/share/config/colors/
@@ -80,10 +80,15 @@ On your system paths may be under ~/.kde/ instead of ~/.kde4/.
 9. Click OK, and you will be using Solarized themes for kate
 10. For any other KDE program with embedded text editor (Kdevelop, Kile), go to their settings window and select Solarized themes as default color schema.
 
+Kdevelop Notes
+----------
+
+If you're using the Dark theme, you might want to tinker with the "Semantic Code Highlighting" colorization intensity in Kdevelop's settings. See the kdev_hl_intensity.png snapshot in the repo for an example of what I'm currently using (kita Dark + Solarized Dark).
+
 The Values
 ----------
 
-L\*a\*b values are canonical (White D65, Reference D50), other values are 
+L\*a\*b values are canonical (White D65, Reference D50), other values are
 matched in sRGB space.
 
     SOLARIZED HEX     16/8 TERMCOL  XTERM/HEX   L*A*B      RGB         HSB
