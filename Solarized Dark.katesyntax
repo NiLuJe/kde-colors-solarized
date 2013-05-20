@@ -1,5 +1,5 @@
 [Default Item Styles - Schema Solarized Dark]
-Alert=ffdc322f,fffdf6e3,1,,,,-,ffdc322f,,---
+Alert=ffdc322f,fffdf6e3,1,,,,ff073642,ffdc322f,,---
 Base-N Integer=ff2aa198,ff002b36,,,,,-,ff859900,,---
 Character=ff2aa198,ff002b36,,,,,-,ff859900,,---
 Comment=ff586e75,ff002b36,,1,,,-,ff859900,,---
