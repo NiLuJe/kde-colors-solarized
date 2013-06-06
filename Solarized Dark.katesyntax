@@ -39,6 +39,14 @@ Bash:String Escape=2,,,,,,,,,,---
 Bash:String SingleQ=7,,,,,,,,,,---
 Bash:String Transl.=7,ff2aa198,ff002b36,,1,,,,ff859900,,---
 Bash:Variable=9,,,,,,,,,,---
+Modelines:Comment=8,,,,,,,,,,---
+Modelines:Keyword=1,,,,,,,,,,---
+Modelines:Number=3,,,,,,,,,,---
+Modelines:Option OFF=9,,,,,,,,,,---
+Modelines:Option ON=9,,,,,,,,,,---
+Modelines:String=7,,,,,,,,,,---
+Modelines:Value=9,,,,,,,,,,---
+Modelines:Variable=11,,,,,,,,,,---
 
 [Highlighting C - Schema Solarized Dark]
 Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
