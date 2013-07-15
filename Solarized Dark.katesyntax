@@ -200,9 +200,9 @@ Modelines:Value=9,,,,,,,,,,---
 Modelines:Variable=11,,,,,,,,,,---
 
 [Highlighting Alerts - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 
 [Highlighting Apache Configuration - Schema Solarized Dark]
