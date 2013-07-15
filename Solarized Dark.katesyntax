@@ -50,9 +50,9 @@ ANSI C89:Preprocessor=9,,,,,,,,,,---
 ANSI C89:String=7,,,,,,,,,,---
 ANSI C89:String Char=6,,,,,,,,,,---
 ANSI C89:Symbol=0,,,,,,,,,,---
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 
 [Highlighting ASP - Schema Solarized Dark]
@@ -86,9 +86,9 @@ AWK:Keyword=1,,,,,,,,,,---
 AWK:Normal=0,,,,,,,,,,---
 AWK:Pattern=7,,,,,,,,,,---
 AWK:String=7,,,,,,,,,,---
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 
 [Highlighting ActionScript 2.0 - Schema Solarized Dark]
@@ -111,9 +111,9 @@ ActionScript 2.0:StaticImports=1,ff800080,ffffffff,0,0,,,,,,---
 ActionScript 2.0:String=7,,,,,,,,,,---
 ActionScript 2.0:String Char=6,,,,,,,,,,---
 ActionScript 2.0:Symbol=0,,,,,,,,,,---
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 CSS:Alert=10,,,,,,,,,,---
 CSS:At Rule=3,,,,,,,,,,---
@@ -206,9 +206,9 @@ Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 
 [Highlighting Apache Configuration - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Apache Configuration:Alert=13,,,,,,,,,,---
 Apache Configuration:Alternates=1,,,,,,,,,,---
@@ -326,9 +326,9 @@ Doxygen:Warning=1,ffb58900,ff002b36,1,,,,,ff859900,,---
 Doxygen:Word=1,ff0095ff,,1,0,,,,,,---
 
 [Highlighting C# - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 C#:Char=6,,,,,,,,,,---
 C#:Comment=8,,,,,,,,,,---
@@ -586,9 +586,9 @@ Modelines:Value=9,,,,,,,,,,---
 Modelines:Variable=11,,,,,,,,,,---
 
 [Highlighting CMake - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 CMake:CMake Variable=3,,,,,,,,,,---
 CMake:Commands=1,,,,,,,,,,---
@@ -604,9 +604,9 @@ CMake:Strings=7,,,,,,,,,,---
 CMake:Third-Party Commands=11,,,,,,,,,,---
 
 [Highlighting CSS - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 CSS:Alert=10,,,,,,,,,,---
 CSS:At Rule=3,,,,,,,,,,---
@@ -626,9 +626,9 @@ CSS:Unknown Property=1,,,,1,,,,,,---
 CSS:Value=2,,,,,,,,,,---
 
 [Highlighting CSS/PHP - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 CSS/PHP:Alert=10,,,,,,,,,,---
 CSS/PHP:At Rule=3,,,,,,,,,,---
@@ -814,9 +814,9 @@ CleanCSS:Unknown Property=1,,,,1,,,,,,---
 CleanCSS:Value=2,,,,,,,,,,---
 
 [Highlighting CoffeeScript - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Alerts_indent:Alert=10,,,,,,,,,,---
 Alerts_indent:Normal Text=0,,,,,,,,,,---
@@ -909,9 +909,9 @@ Common Lisp:String=7,,,,,,,,,,---
 Common Lisp:Variable=1,ffb07e1f,,,,,,,,,---
 
 [Highlighting DTD - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 DTD:Comment=8,,,,,,,,,,---
 DTD:Declaration=2,,,1,,,,,,,---
@@ -952,9 +952,9 @@ Diff:Normal Text=0,,,,,,,,,,---
 Diff:Removed line=7,ffdc322f,ff002b36,,,,,,ff859900,,---
 
 [Highlighting Django HTML Template - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 CSS:Alert=10,,,,,,,,,,---
 CSS:At Rule=3,,,,,,,,,,---
@@ -1040,9 +1040,9 @@ Modelines:Value=9,,,,,,,,,,---
 Modelines:Variable=11,,,,,,,,,,---
 
 [Highlighting Doxygen - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Doxygen:Attention=1,ffe85848,ffe85848,1,0,,,,,,---
 Doxygen:Code=8,,,,,,,,,,---
@@ -1067,9 +1067,9 @@ Doxygen:Warning=1,ffca9219,ffca9219,1,0,,,,,,---
 Doxygen:Word=1,ff0095ff,,1,0,,,,,,---
 
 [Highlighting DoxygenLua - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 DoxygenLua:Comment=8,,,,,,,,,,---
 DoxygenLua:Description=7,,,,,,,,,,---
@@ -1163,9 +1163,9 @@ GLSL:Symbol=0,,,,,,,,,,---
 GLSL:Type Qualifier=2,,,,,,,,,,---
 
 [Highlighting GNU Assembler - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 GNU Assembler:Binary=4,,,,,,,,,,---
 GNU Assembler:Char=6,,,,,,,,,,---
@@ -1237,9 +1237,9 @@ GNU M4:Optional builtins (prefixed with m4_)=1,,,,,,,,,,---
 GNU M4:Special arguments to macros=6,,,,,,,,,,---
 
 [Highlighting Go - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Go:Builtin Function=11,,,,,,,,,,---
 Go:Char=6,,,,,,,,,,---
@@ -1256,9 +1256,9 @@ Go:String Char=6,,,,,,,,,,---
 Go:Symbol=0,,,,,,,,,,---
 
 [Highlighting HTML - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 CSS:Alert=10,,,,,,,,,,---
 CSS:At Rule=3,,,,,,,,,,---
@@ -1338,9 +1338,9 @@ Modelines:Value=9,,,,,,,,,,---
 Modelines:Variable=11,,,,,,,,,,---
 
 [Highlighting Haml - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Haml:Access Control=1,ff268bd2,ff002b36,1,,,,,ff859900,,---
 Haml:Alert=10,,,,,,,,,,---
@@ -1416,9 +1416,9 @@ Haskell:Type=2,,,,,,,,,,---
 Haskell:Type Prelude=2,,,,,,,,,,---
 
 [Highlighting INI Files - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 INI Files:Assignment=9,,,,,,,,,,---
 INI Files:Comment=8,,,,,,,,,,---
@@ -1496,9 +1496,9 @@ JSP:Symbol=0,,,,,,,,,,---
 JSP:Types=2,,,,,,,,,,---
 
 [Highlighting Jam - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Bash:Backquote=1,,,,,,,,,,---
 Bash:Builtin=1,ff880088,,,,,,,,,---
@@ -1548,9 +1548,9 @@ Modelines:Value=9,,,,,,,,,,---
 Modelines:Variable=11,,,,,,,,,,---
 
 [Highlighting Java - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 CSS:Alert=10,,,,,,,,,,---
 CSS:At Rule=3,,,,,,,,,,---
@@ -1655,9 +1655,9 @@ Modelines:Value=9,,,,,,,,,,---
 Modelines:Variable=11,,,,,,,,,,---
 
 [Highlighting JavaScript - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Doxygen:Attention=1,ffe85848,ffe85848,1,0,,,,,,---
 Doxygen:Code=8,,,,,,,,,,---
@@ -1731,9 +1731,9 @@ JavaScript/PHP:Symbol=0,,,,,,,,,,---
 Normal Text=0,,,,,,,,,,---
 
 [Highlighting JavaScript/PlasmaDesktop - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Doxygen:Attention=1,ffe85848,ffe85848,1,0,,,,,,---
 Doxygen:Code=8,,,,,,,,,,---
@@ -1785,9 +1785,9 @@ Modelines:Value=9,,,,,,,,,,---
 Modelines:Variable=11,,,,,,,,,,---
 
 [Highlighting Javadoc - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 CSS:Alert=10,,,,,,,,,,---
 CSS:At Rule=3,,,,,,,,,,---
@@ -1874,9 +1874,9 @@ Modelines:Value=9,,,,,,,,,,---
 Modelines:Variable=11,,,,,,,,,,---
 
 [Highlighting KDev-PG\x5b-Qt\x5d Grammar - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 C++:Char=6,,,,,,,,,,---
 C++:Comment=8,,,,,,,,,,---
@@ -1946,9 +1946,9 @@ Kate File Template:Property=3,,,1,,,,ffeeeeee,,,---
 Kate File Template:Property Value=7,,,,,,,ffeeeeee,,,---
 
 [Highlighting LaTeX - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Alerts_indent:Alert=10,,,,,,,,,,---
 Alerts_indent:Normal Text=0,,,,,,,,,,---
@@ -2040,9 +2040,9 @@ Python:String Char=6,,,,,,,,,,---
 Python:String Substitution=9,ff0057ae,ff0057ae,,,,,,,,---
 
 [Highlighting LessCSS - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 LessCSS:Alert=10,,,,,,,,,,---
 LessCSS:At Rule=3,,,,,,,,,,---
@@ -2065,9 +2065,9 @@ LessCSS:Value=2,,,,,,,,,,---
 LessCSS:Variable=2,,,1,,,,,,,---
 
 [Highlighting Lex/Flex - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 C++:Char=6,,,,,,,,,,---
 C++:Comment=8,,,,,,,,,,---
@@ -2117,9 +2117,9 @@ Lex/Flex:Normal Text=0,,,,,,,,,,---
 Lex/Flex:RegExpr=7,,,,,,,,,,---
 
 [Highlighting LilyPond - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 LilyPond:Articulation=7,ffee5000,,1,,,,,,,---
 LilyPond:Beam=2,,,1,,,,,,,---
@@ -2160,9 +2160,9 @@ LilyPond:User Command=11,,,,,,,,,,---
 LilyPond:Variable=2,,,,,,,,,,---
 
 [Highlighting Lua - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 DoxygenLua:Comment=8,,,,,,,,,,---
 DoxygenLua:Description=7,,,,,,,,,,---
@@ -2221,9 +2221,9 @@ MIPS Assembler:String=7,,,,,,,,,,---
 MIPS Assembler:Type=1,,,,,,,,,,---
 
 [Highlighting MS-DOS Batch - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 MS-DOS Batch:Builtin=1,,,,,,,,,,---
 MS-DOS Batch:Command=1,,,,,,,,,,---
@@ -2354,9 +2354,9 @@ Objective Caml:String=7,,,,,,,,,,---
 Objective Caml:Symbol=0,,,,,,,,,,---
 
 [Highlighting Objective-C - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Doxygen:Attention=1,ffe85848,ffe85848,1,0,,,,,,---
 Doxygen:Code=8,,,,,,,,,,---
@@ -2395,9 +2395,9 @@ Objective-C:String Char=6,,,,,,,,,,---
 Objective-C:Symbol=0,,,,,,,,,,---
 
 [Highlighting Objective-C++ - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Doxygen:Attention=1,ffe85848,ffe85848,1,0,,,,,,---
 Doxygen:Code=8,,,,,,,,,,---
@@ -2438,9 +2438,9 @@ Objective-C++:String Char=6,,,,,,,,,,---
 Objective-C++:Symbol=0,,,,,,,,,,---
 
 [Highlighting OpenCL - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Doxygen:Attention=1,ffe85848,ffe85848,1,0,,,,,,---
 Doxygen:Code=8,,,,,,,,,,---
@@ -2482,9 +2482,9 @@ OpenCL:String Char=6,,,,,,,,,,---
 OpenCL:Symbol=0,,,,,,,,,,---
 
 [Highlighting PHP (HTML) - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 CSS/PHP:Alert=10,,,,,,,,,,---
 CSS/PHP:At Rule=3,,,,,,,,,,---
@@ -2650,9 +2650,9 @@ SQL (MySQL):String Char=6,,,,,,,,,,---
 SQL (MySQL):Symbol=6,,,,,,,,,,---
 
 [Highlighting PHP/PHP - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 CSS:Alert=10,,,,,,,,,,---
 CSS:At Rule=3,,,,,,,,,,---
@@ -2792,9 +2792,9 @@ Pascal:String=7,,,,,,,,,,---
 Pascal:Type=2,,,,,,,,,,---
 
 [Highlighting Perl - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Perl:Comment=8,,,,,,,,,,---
 Perl:Data=0,,,,,,,,,,---
@@ -2836,9 +2836,9 @@ PicAsm:Symbol=0,ffff0000,ff083194,0,0,,,,,,---
 PicAsm:Unbased Numbers=3,,,,,,,,,,---
 
 [Highlighting Pig - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Alerts_indent:Alert=10,,,,,,,,,,---
 Alerts_indent:Normal Text=0,,,,,,,,,,---
@@ -2868,9 +2868,9 @@ PostScript:Normal Text=0,,,,,,,,,,---
 PostScript:String=7,,,,,,,,,,---
 
 [Highlighting PostScript Printer Description - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 PostScript Printer Description:Colon=1,,,,,,,,,,---
 PostScript Printer Description:Comment=8,,,,,,,,,,---
@@ -2879,9 +2879,9 @@ PostScript Printer Description:Option=9,,,,,,,,,,---
 PostScript Printer Description:Value=7,,,,,,,,,,---
 
 [Highlighting Python - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Alerts_indent:Alert=10,,,,,,,,,,---
 Alerts_indent:Normal Text=0,,,,,,,,,,---
@@ -2917,9 +2917,9 @@ Python:String Char=6,,,,,,,,,,---
 Python:String Substitution=9,ff0057ae,ff0057ae,,,,,,,,---
 
 [Highlighting QML - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Doxygen:Attention=1,ffe85848,ffe85848,1,0,,,,,,---
 Doxygen:Code=8,,,,,,,,,,---
@@ -2978,9 +2978,9 @@ QML:Property Type=2,,,,,,,,,,---
 QML:Signal=1,ff0095ff,ffffffff,,,,,,,,---
 
 [Highlighting QMake - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 QMake:Backslash Code=1,,,1,,,,,,,---
 QMake:Comment=8,,,,,,,,,,---
@@ -3022,9 +3022,9 @@ Restructured Text:Title=1,,,1,,,,,,,---
 Restructured Text:UnorderedList=5,,,,,,,,,,---
 
 [Highlighting Roff - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Roff:Comment=8,,,,,,,,,,---
 Roff:Error=13,,,,,,,,,,---
@@ -3042,9 +3042,9 @@ Roff:Register=9,,,,,,,,,,---
 Roff:String=7,,,,,,,,,,---
 
 [Highlighting Ruby - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Ruby:Access Control=1,ff268bd2,ff002b36,1,,,,,ff859900,,---
 Ruby:Attribute Definition=9,,,,,,,,,,---
@@ -3088,9 +3088,9 @@ Ruby:Substitution=9,,,,,,,,,,---
 Ruby:Symbol=7,ffdc322f,ff002b36,,,,,,ff859900,,---
 
 [Highlighting Ruby/Rails/RHTML - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 CSS:Alert=10,,,,,,,,,,---
 CSS:At Rule=3,,,,,,,,,,---
@@ -3207,9 +3207,9 @@ Ruby/Rails/RHTML:Symbol=7,ffdc322f,ff002b36,,,,,,ff859900,,---
 Ruby/Rails/RHTML:Value=7,ffdc322f,ff002b36,,,,,,ff859900,,---
 
 [Highlighting SCSS - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 SCSS:Alert=10,,,,,,,,,,---
 SCSS:At Rule=3,,,,,,,,,,---
@@ -3308,9 +3308,9 @@ Tcl/Tk:String=7,,,,,,,,,,---
 Tcl/Tk:Variable=2,,,,,,,,,,---
 
 [Highlighting Texinfo - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Texinfo:Command=11,,,,,,,,,,---
 Texinfo:Comment=8,,,,,,,,,,---
@@ -3333,9 +3333,9 @@ Textile:strong=0,,,1,,,,,,,---
 Textile:textblock=8,,,,,,,,,,---
 
 [Highlighting Troff Mandoc - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Roff:Comment=8,,,,,,,,,,---
 Roff:Error=13,,,,,,,,,,---
@@ -3389,9 +3389,9 @@ VRML:String=7,,,,,,,,,,---
 VRML:String Char=6,,,,,,,,,,---
 
 [Highlighting Vala - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Doxygen:Attention=1,ffe85848,ffe85848,1,0,,,,,,---
 Doxygen:Code=8,,,,,,,,,,---
@@ -3436,9 +3436,9 @@ Vala:Symbol=0,,,,,,,,,,---
 Vala:Variable=1,ff5555ff,ffffffff,0,0,,,,,,---
 
 [Highlighting Valgrind Suppression - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Valgrind Suppression:Comment=8,,,,,,,,,,---
 Valgrind Suppression:ErrorKind=9,,,,,,,,,,---
@@ -3496,9 +3496,9 @@ XML (Debug):Stylesheet=1,,,,,,,,,,---
 XML (Debug):Value=7,,,,,,,,,,---
 
 [Highlighting XML - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 XML:Attribute=9,,,,,,,,,,---
 XML:CDATA=4,,,1,,,,,,,---
@@ -3514,9 +3514,9 @@ XML:Processing Instruction=1,,,,,,,,,,---
 XML:Value=7,ffdc322f,ff002b36,,,,,,ff859900,,---
 
 [Highlighting XUL - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 XUL:Attribute=9,,,,,,,,,,---
 XUL:CDATA=4,,,1,,,,,,,---
@@ -3563,9 +3563,9 @@ YAML:Reference=2,,,,,,,,,,---
 YAML:String=0,,,,,,,,,,---
 
 [Highlighting Yacc/Bison - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 C++:Char=6,,,,,,,,,,---
 C++:Comment=8,,,,,,,,,,---
@@ -3618,9 +3618,9 @@ Yacc/Bison:String=7,,,,,,,,,,---
 Yacc/Bison:String Char=6,,,,,,,,,,---
 
 [Highlighting Zsh - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 Zsh:Backquote=1,,,,,,,,,,---
 Zsh:Builtin=1,ff880088,,,,,,,,,---
@@ -3643,9 +3643,9 @@ Zsh:String Transl.=7,,,,,,,,,,---
 Zsh:Variable=9,,,,,,,,,,---
 
 [Highlighting dot - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 dot:Attribute=2,,,,,,,,,,---
 dot:Comment=8,,,,,,,,,,---
@@ -3725,9 +3725,9 @@ vCard, vCalendar, iCalendar:Property=1,,,,,,,,,,---
 vCard, vCalendar, iCalendar:vCard=12,,,,,,,,,,---
 
 [Highlighting x.org Configuration - Schema Solarized Dark]
-Alerts:Alert Level 1=10,ffe85848,ffe85848,,,,,ff451e1a,,,---
-Alerts:Alert Level 2=10,ffca9219,ffca9219,,,,,ff451e1a,,,---
-Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Alert Level 1=10,ffdc322f,fffdf6e3,1,,,,,ffdc322f,,---
+Alerts:Alert Level 2=10,ffb58900,fffdf6e3,1,,,,,ffb58900,,---
+Alerts:Alert Level 3=10,ff859900,fffdf6e3,1,,,,,ff859900,,---
 Alerts:Normal Text=0,,,,,,,,,,---
 x.org Configuration:Alert=13,,,,,,,,,,---
 x.org Configuration:Comment=8,,,,,,,,,,---
