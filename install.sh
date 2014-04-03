@@ -1,6 +1,7 @@
 #!/bin/sh
 
 kde_path="$(kde4-config --localprefix)"
+if [[ -z "$kde_path" ]]; then kde_path="$HOME/.kde4"; fi
 
 # KDE Color Palette
 install -Dm644 Solarized_Colors "${kde_path}/share/config/colors/Solarized"
